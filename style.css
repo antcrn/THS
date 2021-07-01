@@ -1,0 +1,19 @@
+.header {
+    height: 500px;
+    background-image: url('images/surf-project.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.debug {
+    border: 2px solid blue
+}
+
+.debug1 {
+    border: 2px solid red
+}
+
+.debug2 {
+    border: 2px solid rgb(43, 255, 0)
+}
